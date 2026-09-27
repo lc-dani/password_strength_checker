@@ -1,0 +1,1 @@
+# Make criteria for strong password
